@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "https://dvitaliy.github.io/csb-mgsk2/static/js/main.a2fa76f2.chunk.js",
-    "main.js.map": "https://dvitaliy.github.io/csb-mgsk2/static/js/main.a2fa76f2.chunk.js.map",
+    "main.js": "https://dvitaliy.github.io/csb-mgsk2/static/js/main.916374b2.chunk.js",
+    "main.js.map": "https://dvitaliy.github.io/csb-mgsk2/static/js/main.916374b2.chunk.js.map",
     "runtime-main.js": "https://dvitaliy.github.io/csb-mgsk2/static/js/runtime-main.0aa25d6b.js",
     "runtime-main.js.map": "https://dvitaliy.github.io/csb-mgsk2/static/js/runtime-main.0aa25d6b.js.map",
     "static/js/2.d70bbe32.chunk.js": "https://dvitaliy.github.io/csb-mgsk2/static/js/2.d70bbe32.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.0aa25d6b.js",
     "static/js/2.d70bbe32.chunk.js",
-    "static/js/main.a2fa76f2.chunk.js"
+    "static/js/main.916374b2.chunk.js"
   ]
 }
